@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ThreadDataModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Thread">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="ThreadId" Type="Int32" />
+    <Property Name="Time" Type="String" MaxLength="25" FixedLength="true" Unicode="true" />
+    <Property Name="Data" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="ThreadData" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Threads" EntityType="Self.Thread" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,15 @@
+C:\Users\Programming\source\repos\UVS\UVS\bin\Debug\UVS.exe.config
+C:\Users\Programming\source\repos\UVS\UVS\bin\Debug\UVS.exe
+C:\Users\Programming\source\repos\UVS\UVS\bin\Debug\UVS.pdb
+C:\Users\Programming\source\repos\UVS\UVS\bin\Debug\EntityFramework.dll
+C:\Users\Programming\source\repos\UVS\UVS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Programming\source\repos\UVS\UVS\bin\Debug\EntityFramework.xml
+C:\Users\Programming\source\repos\UVS\UVS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Programming\source\repos\UVS\UVS\obj\Debug\UVS.csprojAssemblyReference.cache
+C:\Users\Programming\source\repos\UVS\UVS\obj\Debug\UVS.Form1.resources
+C:\Users\Programming\source\repos\UVS\UVS\obj\Debug\UVS.Properties.Resources.resources
+C:\Users\Programming\source\repos\UVS\UVS\obj\Debug\UVS.csproj.GenerateResource.cache
+C:\Users\Programming\source\repos\UVS\UVS\obj\Debug\UVS.csproj.CoreCompileInputs.cache
+C:\Users\Programming\source\repos\UVS\UVS\obj\Debug\UVS.csproj.CopyComplete
+C:\Users\Programming\source\repos\UVS\UVS\obj\Debug\UVS.exe
+C:\Users\Programming\source\repos\UVS\UVS\obj\Debug\UVS.pdb
